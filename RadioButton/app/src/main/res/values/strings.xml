@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RadioButton</string>
+    <string name="textView">Selecione una opción:</string>
+    <string name="textViewMessage">Selección del usuario</string>
+    <string name="button">Aplicar selección</string>
+    <string name="radiobutton1">Opcion 1</string>
+    <string name="radiobutton2">Opcion 2</string>
+    <string name="radiobutton3">Opcion 3</string>
+</resources>
