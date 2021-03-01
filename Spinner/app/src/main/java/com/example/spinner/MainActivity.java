@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //Asignamos las vistas a los objetos
+        //Asignamos las vistas a los objetos.
         spinnerDefault = (Spinner)findViewById(R.id.spinner_default);
         spinnerCustom  = (Spinner)findViewById(R.id.spinner_custom);
         selectionDefault = (TextView)findViewById(R.id.tv_selectedItem_spinnerDefault);
