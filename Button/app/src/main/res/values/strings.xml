@@ -5,6 +5,6 @@
     <string name="descrip">Este ejemplo sitúa tres botones en un linearLayout. Los botones tienen
         la misma configuración y texto. El primero de ellos desarrolla el evento onClick por código y
         los otros dos usan el evento onClick mediante el setting en los atributos del diseñador.
-        Todos los eventos apuntan a un solo método que imprime en pantalla el nombre del id del botón.
+        Todos los eventos apuntan a un solo método, que imprime en pantalla el nombre del id del botón.
     </string>
 </resources>
