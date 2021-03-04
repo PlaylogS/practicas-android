@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Checkbox</string>
+    <string name="desc_demo">Esta demo muestra cómo usar los checkboxes y además hace uso de un theme/style personalizado</string>
+    <string name="textView">Selecciona valores</string>
+    <string name="opcionCheckbox1">VAL 1</string>
+    <string name="opcionCheckbox2">VAL 2</string>
+    <string name="opcionCheckbox3">VAL 3</string>
+    <string name="opcionCheckbox4">VAL 4</string>
+</resources>
